@@ -46,9 +46,6 @@ I enjoy tackling complex problems, whether it’s simulating portfolio risk usin
 ---
 
 ## 📫 Contact
-
-- 📧 Email: [raisa.lalwani@example.com](mailto:raisa.lalwani@example.com)  
-- 🔗 GitHub: [github.com/raisa-lalwani](https://github.com/raisa-lalwani)  
 - 🔗 LinkedIn: [linkedin.com/in/raisa-lalwani](https://linkedin.com/in/raisa-lalwani)
 
 ---
